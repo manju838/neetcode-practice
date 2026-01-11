@@ -1,0 +1,5 @@
+gfg-docs/_site
+gfg-docs/.bundle
+gfg-docs/.jekyll-cache
+gfg-docs/vendor
+gfg-docs/Gemfile.lock
